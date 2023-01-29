@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **PT WhiteOpen Technology**
 
-- 🌱 I’m currently learning **React, Flutter**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Vue**
 
