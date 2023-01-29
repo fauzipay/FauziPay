@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fauzi</h1>
-<h3 align="center">A passionate frontend developer from Indonesia especially Jakarta</h3>
+<h3 align="center">Frontend developer from Indonesia especially Jakarta</h3>
 
-- 🔭 I’m currently working on **WhiteOpen Technology**
+- 🔭 I’m currently working on **PT WhiteOpen Technology**
 
 - 🌱 I’m currently learning **React, Flutter**
 
-- 💬 Ask me about **Vue, Java**
+- 💬 Ask me about **Vue**
 
 - 📫 How to reach me **falaipbb@gmail.com**
-
-- ⚡ Fun fact **can not sleep if there is a bug in the project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
