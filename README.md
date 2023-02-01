@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fauzi</h1>
 <h3 align="center">Frontend developer from Indonesia especially Jakarta</h3>
 
-- 🔭 I’m currently working on **PT WhiteOpen Technology**
+- :upside_down_face: I’m currently working on **PT WhiteOpen Technology**
 
-- 🌱 I’m currently learning **Flutter**
+- :joy: I’m currently learning **Flutter**
 
-- 💬 Ask me about **Vue**
+- :grin: Ask me about **Vue**
 
 - 📫 How to reach me **falaipbb@gmail.com**
 
